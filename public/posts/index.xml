@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dave&#39;s site</title>
-    <link>https://dave.lubell.org/posts/</link>
+    <link>https://lubell.net/posts/</link>
     <description>Recent content in Posts on Dave&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 15:50:45 -0700</lastBuildDate>
     
-	<atom:link href="https://dave.lubell.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lubell.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://dave.lubell.org/posts/test/</link>
+      <link>https://lubell.net/posts/test/</link>
       <pubDate>Sat, 15 Aug 2020 15:50:45 -0700</pubDate>
       
-      <guid>https://dave.lubell.org/posts/test/</guid>
-      <description></description>
+      <guid>https://lubell.net/posts/test/</guid>
+      <description>asdfasdf dasdfsdfasdfsdf adfasdfsd</description>
     </item>
     
   </channel>

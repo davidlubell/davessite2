@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dave&#39;s site</title>
-    <link>https://dave.lubell.org/tags/</link>
+    <link>https://lubell.net/tags/</link>
     <description>Recent content in Tags on Dave&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dave.lubell.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lubell.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

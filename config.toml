@@ -1,4 +1,15 @@
-baseURL = "https://dave.lubell.org/"
+baseURL = "https://lubell.net/"
 languageCode = "en-us"
 title = "Dave's site"
 theme = "sk1"
+
+[Params]
+mainSections = "post"
+subtitle     = "Dave's site"
+
+[markup.tableOfContents]
+endLevel   = 6
+ordered    = false
+startLevel = 1
+
+
